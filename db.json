@@ -1,0 +1,9 @@
+{
+  "devices": [
+    { "id": 1, "name": "Φως Σαλονιού", "type": "Light", "isOn": false },
+    { "id": 2, "name": "Κλιματιστικό", "type": "AC", "isOn": true },
+    { "id": 3, "name": "Τηλεόραση", "type": "TV", "isOn": false },
+    { "id": 4, "name": "Τέντες", "type": "Blinds", "isOn": false }
+  ],
+  "users": []
+}
